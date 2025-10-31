@@ -3,7 +3,7 @@ import './globals.css';
 import { circularWeb, general, robertMedium, robertRegular, zentry } from './fonts';
 
 export const metadata: Metadata = {
-  title: 'Awards 3D Website',
+  title: 'Awards Website',
   description: 'A modern animation website with GSAP and Three.js',
 };
 
